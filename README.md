@@ -176,7 +176,7 @@ Your capital safety is our fundamental priority:
 * **Web Platform:** [https://app.signalforall.com](https://app.signalforall.com)
 * **Official Website:** [https://signalforall.com](https://signalforall.com)
 * **Telegram Announcements:** [https://t.me/signalforall](https://t.me/signalforall)
-* **Support & Ticketing:** In-app Help Desk or via [support@signalforall.com](mailto:support@signalforall.com)
+* **Support & Ticketing:** In-app Help Desk or via [info@signalforall.com](mailto:info@signalforall.com)
 
 ---
 
