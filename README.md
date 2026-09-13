@@ -2,7 +2,7 @@ Official Android/IOS App for SignalForAll — AI-Powered Crypto &amp; Forex Trad
 
 <p align="center">
   <a href="https://signalforall.com" target="_blank" rel="noopener noreferrer">
-    <img src="https://raw.githubusercontent.com/signalforall/sfaapp/main/public/sfa-logo-horizontal.png" alt="Signal For All Logo" width="380" onerror="this.src='https://app.signalforall.com/favicon.ico'; this.width=80;">
+    <img src="https://www.signalforall.com/favicon.png" alt="Signal For All Logo" width="380" onerror="this.src='https://app.signalforall.com/favicon.ico'; this.width=80;">
   </a>
 </p>
 
