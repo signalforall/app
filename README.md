@@ -15,7 +15,7 @@ Official Android/IOS App for SignalForAll — AI-Powered Crypto &amp; Forex Trad
 
 <p align="center">
   <br>
-  <a href="https://github.com/signalforall/signalforall-android/releases/latest/download/SignalForAll.apk">
+  <a href="https://github.com/signalforall/app/releases/download/v1.0.0/SignalForAll.apk">
     <img src="https://img.shields.io/badge/Download-Android%20APK%20(v1.0.0)-79C061?style=for-the-badge&logo=android&logoColor=white" alt="Download Android APK" vspace="8" hspace="10">
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
@@ -129,7 +129,7 @@ Signal For All is distributed directly as an independent, uncensored Android Pac
 ### Step 1: Download the APK
 Download the latest verified APK directly from this repository:
 
-👉 **[Download SignalForAll.apk (Latest Release)](https://github.com/signalforall/signalforall-android/releases/latest/download/SignalForAll.apk)**
+👉 **[Download SignalForAll.apk (Latest Release)](https://github.com/signalforall/app/releases/download/v1.0.0/SignalForAll.apk)**
 
 ### Step 2: Enable Installation from Unknown Sources
 When you tap on the downloaded `.apk` file:
